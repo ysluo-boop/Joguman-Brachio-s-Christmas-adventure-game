@@ -1,0 +1,8 @@
+{
+  "name": "Joguman Brachio with Christmas Adventure",
+  "description": "A 2.5D side-scrolling Christmas RPG web game featuring Joguman Brachio in a cute pastel-winter toy-figurine world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
